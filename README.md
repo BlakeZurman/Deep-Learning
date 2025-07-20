@@ -102,7 +102,3 @@ This project applies deep learning to classify ship images into five categories:
 * Tackle class imbalance more directly.
 * Fine-tune VGG16 layers.
 * Incorporate Grad-CAM or saliency maps for interpretability.
-
----
-
-![Ship Classification Sample](https://github.com/user-attachments/assets/adc345d0-8419-4764-9a10-1979b574851d)
